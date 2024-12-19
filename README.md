@@ -1,1 +1,3 @@
-A Tetris environment used for DQN reinforcement learning.
+Implemented by Nelson Feng and Evan Chen
+
+Uses DQN via keras
